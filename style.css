@@ -1,0 +1,17 @@
+.carro {
+    width: 30%;
+    height: 30%;
+}
+
+.moto {
+    width: 30%;
+    height: 30%;
+}
+
+.carroescolha {
+    font-size: 130%;
+}
+
+.motoescolha {
+    font-size: 130%;
+}
