@@ -1,17 +1,12 @@
-.carro {
-    width: 30%;
-    height: 30%;
+.img-pag-um{
+    width: 20%;
+    border: 2px solid black;
+    border-radius: 30px ;
+    margin: 30px;
+    
 }
 
-.moto {
-    width: 30%;
-    height: 30%;
-}
-
-.carroescolha {
-    font-size: 130%;
-}
-
-.motoescolha {
-    font-size: 130%;
+.escolha-one {
+    display: inline;
+    
 }
