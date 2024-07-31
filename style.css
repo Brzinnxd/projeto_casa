@@ -1,12 +1,12 @@
-.img-pag-um{
-    width: 20%;
-    border: 2px solid black;
-    border-radius: 30px ;
-    margin: 30px;
-    
+.btn-success{
+    margin-top: 1rem;
+}
+.btn-secondary{
+    margin-top: 1rem;
 }
 
-.escolha-one {
-    display: inline;
-    
-}
+.custom-tooltip {
+    --bs-tooltip-bg: var();
+    --bs-tooltip-color: var(--bs-red);
+  }
+
